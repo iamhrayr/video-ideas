@@ -1,0 +1,11 @@
+.error span {
+    color: #9f3a38;
+}
+
+.flash-message-list {
+    z-index: 20;
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    width: 320px;
+}
